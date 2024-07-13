@@ -1,4 +1,4 @@
-**Elevate Your Data Visualization Game with Our Power BI Repository: Maji Ndogo Dataset**
+# Elevate Your Data Visualization Game with Our Power BI Repository: Maji Ndogo Dataset
 
 Unleash the full potential of Power BI with a curated collection of projects, tutorials, and resources. From crafting compelling dashboards to mastering DAX (Data Analysis Expressions) and implementing ETL (Extract, Transform, Load) processes, this repository is your go-to guide for harnessing the power of business intelligence.
 
